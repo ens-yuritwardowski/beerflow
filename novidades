@@ -1,0 +1,21 @@
+# Evolução do código — BeerFlow
+
+## Nova funcionalidade: Histórico de vendas
+
+Nesta evolução do BeerFlow, queremos facilitar a consulta das vendas realizadas durante o evento.
+
+A proposta é criar uma área de histórico que permita visualizar as vendas registradas, incluindo a data, o barril utilizado, a cerveja e o volume vendido.
+
+Também queremos apresentar um resumo com a quantidade de vendas e o total de litros vendidos, facilitando o acompanhamento das movimentações.
+
+Essa melhoria complementa as funcionalidades que já existem no sistema, como o cadastro de barris, o controle de volume e o registro de vendas.
+
+## Objetivo
+
+Deixar o acompanhamento das vendas mais simples e organizado, permitindo consultar as informações sem precisar acessar diretamente o banco de dados.
+
+## Próximos passos
+
+- Implementar e testar a funcionalidade no código do sistema.
+- Conferir se os dados apresentados correspondem às vendas registradas.
+- Atualizar a documentação do projeto.
